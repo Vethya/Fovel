@@ -1,16 +1,16 @@
+![Fovel](assets/Fovel.png)
+
 # Fovel
+An easy to use novel editor app.
 
-A new Flutter project.
+## Build
+### Building from source
+```
+git clone https://github.com/Vethya/Fovel
+cd Fovel
+flutter pub get
+flutter run
+```
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributions
+Any contributions will be appreciated. Refer to the issues tab to see what you can do. Coding style must obviously be clean and matching the codebase.
